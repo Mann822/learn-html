@@ -33,10 +33,6 @@ Kamu akan belajar membuat halaman web sederhana, mengenal tag-tag HTML, dan mema
 
 ---
 
-## 🖥️ Demo Langsung
-🎯 Klik untuk melihat hasil demo:  
-[![View Demo](https://img.shields.io/badge/🌐_Lihat_Halaman-blue?style=for-the-badge&logo=html5&logoColor=white)](https://username.github.io/modul-html/)
-
 ---
 
 ## ⚙️ Cara Menjalankan
